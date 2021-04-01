@@ -1,0 +1,3 @@
+* IBM Ponder This Challenges
+
+My solutions to some of IBM Research's [[https://www.research.ibm.com/haifa/ponderthis/index.shtml][Ponder This]] challenges.
